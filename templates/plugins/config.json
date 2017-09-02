@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "name": "Plugins plugin",
+  "description": "Generic message here",
+  "authors": [
+    {
+      "name": "Your Name Here",
+      "url": "Some Fancy URL"
+    }
+  ]
+}
