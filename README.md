@@ -16,3 +16,9 @@ The above are required.
 All templates are located inside of the `templates/` directory.  Write now the following exist:
 
 * `plugins` - Write a Blesta [plugin](https://docs.blesta.com/display/dev/Plugins)
+
+## TODO
+
+* Support other extension types
+* Add in additional developer tooling (super vague right now)
+* Support [Blesta Composer usage](https://github.com/blesta/composer-installer)
